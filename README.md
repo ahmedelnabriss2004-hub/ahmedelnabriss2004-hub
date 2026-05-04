@@ -20,14 +20,6 @@ I am an innovative Software Engineering student at Al-Azhar University. I specia
 
 ---
 
-### 📊 GitHub Activity & Skills
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 🛠 Technical Expertise
 
 | Category | Skills & Tools |
